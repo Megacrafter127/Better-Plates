@@ -1,0 +1,14 @@
+{
+  "name": "net.m127.betterplates",
+  "displayName": "Better Plates",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "unityRelease": "22f1",
+  "author": {
+    "name": "Megacrafter127",
+    "email": "Megacrafter127@web.de"
+  },
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.4 <=3.5"
+  }
+}
